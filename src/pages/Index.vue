@@ -27,24 +27,26 @@
       <p>I have over 6 years of programming experience. Currently, I lead the development team at Heartland Business Systems, building infrastructure, apps and services to power dozens of ERP systems.</p>
       <p>Here's a few technologies I've been working with recently:</p>
       <ul class="color">
+        <li>Ruby</li>
+        <li>Ruby on Rails</li>
         <li>JavaScript (ES6+)</li>
         <li>HTML &amp; CSS</li>
         <li>Vue</li>
         <li>Node.js</li>
         <li>Express</li>
         <li>C#</li>
-        <li>Electron</li>
-        <li>Svelte</li>
       </ul>
       <p>Outside of programming and spending time with my wife, I enjoy video games, videography, tacos and discovering new places.</p>
       <footer class="color">
-        <a
-          href="https://github.com/xi-osman/profile"
-          target="_blank"
-          rel="nofollow noopener noreferrer"
-        >
-          <div>Designed &amp; Built by Osvaldo Perez</div>
-        </a>
+        <div class="social-links">
+          <a
+            href="https://github.com/xi-osman/profile"
+            target="_blank"
+            rel="nofollow noopener noreferrer"
+          >
+            <div>Designed &amp; Built by Osvaldo Perez</div>
+          </a>
+        </div>
         <div class="social-links">
           <a href="https://github.com/xi-osman" target="_blank" rel="nofollow noopener noreferrer">
             <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 438.549 438.549">
